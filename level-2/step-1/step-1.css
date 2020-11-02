@@ -10,6 +10,8 @@
     height: 70px;
     text-align: center;
     background: #D8D8D8;
+    display: inline-block;
+
 }
 
 /*  Step-1 You need to get all of these elements to line up side by side. What display property would do this for you? */
